@@ -14,8 +14,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/advanced-streamlit-calculator.git
-   cd advanced-streamlit-calculator
+   git clone https://github.com/muzaffar401/Simple_Calculator_App.git
+   cd Simple_Calculator_App
    ```
 
 2. **Create a virtual environment (optional but recommended):**
